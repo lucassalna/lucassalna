@@ -19,6 +19,9 @@ Soy desarrollador principalmente backend, me gusta aprender nuevos lenguajes y n
 Tengo conociemtos en desarrollo web, computacion en la nube y contenerizacion de aplicaciones
 
 
+
+
+
 <br>
 
 ## 🛠️ My Skills
