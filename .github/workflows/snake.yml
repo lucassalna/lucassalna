@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
-  schedule: # Corre automáticamente todos los días a la medianoche
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permite correrlo manualmente desde la pestaña Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write  # 👈 importante, le da permiso al bot para hacer push
 
 jobs:
   build:
