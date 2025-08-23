@@ -16,7 +16,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 200px></picture>
 
 Soy desarrollador principalmente backend, me gusta aprender nuevos lenguajes y nuevas maneras de hacer las cosas
-Tengo conociemtos en desarrollo web, computacion en la nube y contenerizacion de aplicaciones
+\nTengo conociemtos en desarrollo web, computacion en la nube y contenerizacion de aplicaciones
 
 
 
