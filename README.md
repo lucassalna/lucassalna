@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+| Snake eating my contributions |
+| ----------------------------- |
+| ![snake gif](https://github.com/lucassalna/lucassalna/blob/output/github-contribution-grid-snake.svg) |
