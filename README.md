@@ -13,7 +13,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> sobre mi
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 200px></picture>
 
 Soy desarrollador principalmente backend, me gusta aprender nuevos lenguajes y nuevas maneras de hacer las cosas
 Tengo conociemtos en desarrollo web, computacion en la nube y contenerizacion de aplicaciones
